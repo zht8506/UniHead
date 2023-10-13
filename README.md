@@ -6,7 +6,7 @@ Heads".
 
 For more details, please refer to our [paper](https://arxiv.org/pdf/2309.13242.pdf). This repo is based on PyTorch>=1.7.1 and mmdet==2.25.1.
 
-<img src="resources/UniHead_overview.png">
+<img src="resources/Overview.png">
 
 ## :trophy: Result
 Our UniHead can bring significant AP improvements to a large number of detectors, even with lower model complexity.
