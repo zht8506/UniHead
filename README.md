@@ -13,7 +13,7 @@ Our UniHead can bring significant AP improvements to a large number of detectors
 <img src="resources/UniHead_performance.png">
 
 ## :open_file_folder: Weight
-We release the weight of models used in our paper, including RetinaNet, FCOS, RepPoints, FreeAnchor, ATSS and GFL.  
+We release the weight of models used in our paper, including RetinaNet, FCOS, RepPoints, FreeAnchor, ATSS and GFL.  **You may need to log out of your Google account to download them.**
 
 Download the weight(s) from corresponding links below.
  - RetinaNet-UniHead (39.2 AP): [Google Drive](https://drive.google.com/file/d/1iouS_uP0O6h39ZLafJhxw9CzZnPAasD3/view?usp=drive_link); [BaiduNetDisk](https://pan.baidu.com/s/1kNz784AJa57VpyTbs-fEXw?pwd=hrzu)
