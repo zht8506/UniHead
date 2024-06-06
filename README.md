@@ -12,7 +12,9 @@ For more details, please refer to our [paper](https://arxiv.org/pdf/2309.13242.p
 Our UniHead can bring significant AP improvements to a large number of detectors, even with lower model complexity.
 <img src="resources/UniHead_performance.png">
 
+
 **New!!!**
+
 We evaluate our UniHead on the VOC07+12 dataset. We find that our UniHead is also effective, demonstrating the generalization ability of UniHead.
 <img src="resources/performance_on_voc.png">
 
