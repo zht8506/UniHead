@@ -52,11 +52,12 @@ Examples of detection results obtained by our UniHead and baseline (RetinaNet).
 ## 📚  Citation
 Please cite our work if you find our work and codes helpful for your research.
 ```
-@article{zhou2023unihead,
-  title={UniHead: Unifying Multi-Perception for Detection Heads},
+@article{zhou2024unihead,
+  title={Unihead: unifying multi-perception for detection heads},
   author={Zhou, Hantao and Yang, Rui and Zhang, Yachao and Duan, Haoran and Huang, Yawen and Hu, Runze and Li, Xiu and Zheng, Yefeng},
-  journal={arXiv preprint arXiv:2309.13242},
-  year={2023}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
