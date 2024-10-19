@@ -23,7 +23,7 @@ model = dict(
         convert_weights=True,
         init_cfg=dict(
             type='Pretrained',
-            checkpoint='/mnt/wx_feature/home/hantaozhou/test_code_mm/checkpoints/swin_tiny_patch4_window7_224.pth'
+            checkpoint='swin_tiny_patch4_window7_224.pth'
         )),
     neck=dict(
         type='FPN',
