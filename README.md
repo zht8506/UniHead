@@ -1,8 +1,8 @@
 # UniHead: an effective detection head
 
 ## :loudspeaker: Introduction
-This is the official implementation of our paper titled "UniHead: Unifying Multi-Perception for Detection
-Heads".
+This is the official implementation of our paper titled "**UniHead: Unifying Multi-Perception for Detection
+Heads**".
 
 For more details, please refer to our [paper](https://arxiv.org/pdf/2309.13242.pdf). This repo is based on PyTorch>=1.7.1 and mmdet==2.25.1.
 
